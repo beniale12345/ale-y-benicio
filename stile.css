@@ -11,9 +11,9 @@ body {
 
 .carousel {
   position: relative;
-  width: 100%;
+  width: 50%;
   max-width: 800px;
-  margin: 40px auto;
+  margin: 50px auto;
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -31,6 +31,7 @@ body {
 }
 
 .slide img {
+  height: 50%;
   width: 100%;
   display: block;
 }
@@ -73,7 +74,7 @@ body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
   transition: transform 0.3s ease;
-  
+
     
   } 
 
