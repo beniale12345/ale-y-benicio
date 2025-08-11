@@ -121,3 +121,22 @@ body {
   text-align: center;
 }
 
+.grupo-fotos {
+  background-color: #fdfdfd;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 1200px;
+  gap: 20px;
+}
+
+.logo-navbar {
+  height: 40px;
+  width: auto;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
